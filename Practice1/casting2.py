@@ -1,0 +1,5 @@
+b=float(6)
+e=float(3.2)
+i=float("6")
+s=float("5.24")
+print(b,e,i,s)

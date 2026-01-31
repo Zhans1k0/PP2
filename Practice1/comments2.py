@@ -1,0 +1,1 @@
+print("Zhansaya don't give up") #KBTU AAAAAAAAA

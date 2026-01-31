@@ -1,0 +1,1 @@
+print("The most beautiful car is a Mercedes")  

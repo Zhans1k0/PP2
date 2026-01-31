@@ -1,0 +1,1 @@
+print("The fastest car is a BMW")
