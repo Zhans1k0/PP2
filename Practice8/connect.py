@@ -12,3 +12,4 @@ def connect():
         return conn
     except Exception as e:
         print("Connection error:", e)
+ 
