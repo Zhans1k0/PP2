@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Aya",
+        "email": "aya@gmail.com",
+        "birthday": "2005-08-26",
+        "group": "A",
+        "phone": "87085109631",
+        "phone_type": "work"
+    }
+]

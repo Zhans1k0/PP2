@@ -1,0 +1,7 @@
+config = {
+    "host": "localhost",
+    "database": "phonebook",
+    "user": "postgres",
+    "password": "1234",
+    "port": 5433  
+}
